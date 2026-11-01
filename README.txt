@@ -1,0 +1,1 @@
+GAMING SHOII website\nUpload the contents of this folder to your static hosting provider. Keep index.html and the assets folder together.\n
